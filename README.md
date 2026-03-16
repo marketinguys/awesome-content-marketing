@@ -41,6 +41,7 @@
 * **[LinkedIn Articles](https://www.linkedin.com/)** - A professional platform for distributing thought leadership content.
 * **[Buffer](https://buffer.com/)** - A tool for scheduling and sharing content on social media.
 * **[Hootsuite](https://hootsuite.com/)** - A social media management tool for distributing and tracking content.
+* **[SocialBu](https://socialbu.com/)** - An AI-powered social media management platform for scheduling, publishing, and automating content distribution across X, Instagram, LinkedIn, Facebook, TikTok, Pinterest, Google Business, and Threads.
 
 ## SEO and Content Optimization
 
