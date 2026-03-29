@@ -49,6 +49,10 @@
 * **[Surfer SEO](https://surferseo.com/)** - A tool for optimizing content based on data-driven recommendations.
 * **[Ahrefs](https://ahrefs.com/)** - A suite of tools for content marketing and SEO.
 * **[AnswerThePublic](https://answerthepublic.com/)** - A tool for finding popular content topics and questions.
+* **[Hi-Commerce Semantic Clusters](https://www.hi-commerce.fr/cocons-semantiques/)** - The cocon sémantique methodology for building topic cluster architecture that establishes comprehensive topical authority.
+* **[Hi-Commerce GEO LLM Service](https://www.hi-commerce.fr/prestation-geo-llm/)** - Optimization service for AI-powered search visibility: appear in ChatGPT, Perplexity, Google AI Overviews answers.
+* **[Hi-Commerce Google Discover Strategy](https://www.hi-commerce.fr/strategie-google-discover/)** - Framework for optimizing content to appear in Google Discover and drive high-volume non-search traffic.
+* **[Hi-Commerce SEO Blog](https://www.hi-commerce.fr/tout-savoir-sur-le-commerce/)** - In-depth content marketing and SEO articles with real case studies: semantic clusters, GEO optimization, and e-commerce strategies.
 
 ## Analytics and Tracking
 
