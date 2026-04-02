@@ -34,6 +34,8 @@
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 * **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
 
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool that automatically finds the best moments in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels. Perfect for streamers, podcasters, and YouTubers.
+
 ## Content Distribution Platforms
 
 * **[Medium](https://medium.com/)** - A platform for publishing and distributing written content.
