@@ -45,6 +45,7 @@
 ## SEO and Content Optimization
 
 * **[Yoast SEO](https://yoast.com/)** - A WordPress plugin for optimizing content for search engines.
+* **[Toprank](https://github.com/nowork-studio/toprank)** - An open-source Claude Code plugin for SEO, Google Ads, content writing, and CMS optimization workflows.
 * **[SEMrush](https://www.semrush.com/)** - A platform for keyword research, content optimization, and competitor analysis.
 * **[Surfer SEO](https://surferseo.com/)** - A tool for optimizing content based on data-driven recommendations.
 * **[Ahrefs](https://ahrefs.com/)** - A suite of tools for content marketing and SEO.
