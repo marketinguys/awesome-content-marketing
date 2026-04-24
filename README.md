@@ -33,6 +33,7 @@
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 * **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+* **[SEO Booster](https://www.sgeo.it.com/)** - AI SEO autopilot that writes and auto-publishes daily articles to 13 CMS platforms with brand voice learning, audience persona analysis, and 51-language translation.
 
 ## Content Distribution Platforms
 
@@ -49,6 +50,7 @@
 * **[Surfer SEO](https://surferseo.com/)** - A tool for optimizing content based on data-driven recommendations.
 * **[Ahrefs](https://ahrefs.com/)** - A suite of tools for content marketing and SEO.
 * **[AnswerThePublic](https://answerthepublic.com/)** - A tool for finding popular content topics and questions.
+* **[SEO Booster](https://www.sgeo.it.com/)** - AI-powered SEO automation with 87+ technical checks, GEO/AEO optimization for ChatGPT/Claude/Gemini, programmatic SEO, and internal linking engine.
 
 ## Analytics and Tracking
 
