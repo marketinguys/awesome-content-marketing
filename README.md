@@ -33,6 +33,7 @@
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 * **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+* **[Cyber Collector](https://t.me/cybercollectorbot)** - Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ## Content Distribution Platforms
 
