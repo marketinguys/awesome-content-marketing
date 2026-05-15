@@ -28,6 +28,7 @@
 
 ## Content Creation Tools
 
+- [WebCoreLab](https://webcorelab.com) — AI content factory + SEO audit. Anti-AI-detection humanizer, GEO/AEO optimization, 272-check technical audit.
 * **[Canva](https://www.canva.com/)** - A design tool for creating visuals, infographics, and social media content.
 * **[Grammarly](https://www.grammarly.com/)** - A writing assistant for improving grammar, tone, and readability.
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
