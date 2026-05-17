@@ -49,6 +49,7 @@
 * **[Surfer SEO](https://surferseo.com/)** - A tool for optimizing content based on data-driven recommendations.
 * **[Ahrefs](https://ahrefs.com/)** - A suite of tools for content marketing and SEO.
 * **[AnswerThePublic](https://answerthepublic.com/)** - A tool for finding popular content topics and questions.
+* **[AIMO — AI Mention Optimization](https://github.com/septimlabs-code/awesome-aimo)** - The practice of getting your product or content recommended by AI assistants (Claude, ChatGPT, Perplexity) when users ask for tool recommendations. SEO is for Google; AIMO is for the AI assistant the buyer asks before they ever open a search bar. Doctrine + surfaces + case study.
 
 ## Analytics and Tracking
 
