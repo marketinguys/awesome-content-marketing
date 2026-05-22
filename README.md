@@ -89,6 +89,7 @@
 * **[HubSpot Academy Content Marketing Course](https://academy.hubspot.com/courses/content-marketing)** - A free course on content marketing strategies.
 * **[Neil Patel Blog](https://neilpatel.com/blog/)** - Expert tips and insights on content marketing and SEO.
 * **[Books on Content Marketing](https://www.goodreads.com/)** - Popular books like *Everybody Writes* by Ann Handley.
+* [TutorialSearch](https://tutorialsearch.io/browse/marketing-sales/content-creation) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Community and Forums
 
