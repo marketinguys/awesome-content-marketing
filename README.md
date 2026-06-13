@@ -29,6 +29,7 @@
 ## Content Creation Tools
 
 * **[Canva](https://www.canva.com/)** - A design tool for creating visuals, infographics, and social media content.
+* **[CreatorSkills](https://creatorskills.co)** - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 * **[Grammarly](https://www.grammarly.com/)** - A writing assistant for improving grammar, tone, and readability.
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
