@@ -29,6 +29,7 @@
 ## Content Creation Tools
 
 * **[Canva](https://www.canva.com/)** - A design tool for creating visuals, infographics, and social media content.
+* **[igly.ai](https://igly.ai)** - AI image editor for marketing visuals, product photos, background removal, inpainting, upscaling, and generative fill. [Demo](https://www.youtube.com/watch?v=HB2E1WZ12is).
 * **[Grammarly](https://www.grammarly.com/)** - A writing assistant for improving grammar, tone, and readability.
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
