@@ -8,6 +8,7 @@
 
 * [General Resources](#general-resources)
 * [Content Creation Tools](#content-creation-tools)
+* [Content Research & Inspiration](#content-research--inspiration)
 * [Content Distribution Platforms](#content-distribution-platforms)
 * [SEO and Content Optimization](#seo-and-content-optimization)
 * [Analytics and Tracking](#analytics-and-tracking)
@@ -33,6 +34,14 @@
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 * **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+
+## Content Research & Inspiration
+
+* **[BuzzSumo](https://buzzsumo.com/)** - Discover the most-shared content and trending topics in any niche to inform your content calendar.
+* **[Exploding Topics](https://explodingtopics.com/)** - Spot emerging trends before they peak — useful for first-mover content angles.
+* **[Glasp](https://glasp.co/)** - Social web highlighter for capturing and re-using insights from articles and videos as content inputs.
+* **[ViewIGStory](https://www.view-ig-story.com/)** - Anonymous Instagram story viewer for competitor and creator research; observe how brands and creators tell stories without leaving a trace in their viewer list.
+* **[SparkToro](https://sparktoro.com/)** - Audience intelligence tool that reveals where your audience already pays attention online.
 
 ## Content Distribution Platforms
 
