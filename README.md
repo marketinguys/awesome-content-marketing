@@ -81,6 +81,7 @@
 * **[Jekyll](https://jekyllrb.com/)** - A static site generator focused on simplicity and flexibility.
 * **[Pelican](https://getpelican.com/)** - A static site generator written in Python for content-focused sites.
 * **[Netlify CMS](https://www.netlifycms.org/)** - An open-source content management system for static websites.
+* **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code agent skills for SEO, content, Google Ads, and Meta Ads; connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Educational Resources
 
