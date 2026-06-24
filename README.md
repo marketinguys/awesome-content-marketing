@@ -81,6 +81,7 @@
 * **[Jekyll](https://jekyllrb.com/)** - A static site generator focused on simplicity and flexibility.
 * **[Pelican](https://getpelican.com/)** - A static site generator written in Python for content-focused sites.
 * **[Netlify CMS](https://www.netlifycms.org/)** - An open-source content management system for static websites.
+* **[UnfoldCMS](https://unfoldcms.com/)** - A self-hosted, open-source CMS for content marketing teams, with built-in REST API, webhooks, and headless support for Next.js, Astro, SvelteKit, and Nuxt.
 
 ## Educational Resources
 
