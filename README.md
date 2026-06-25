@@ -88,6 +88,7 @@
 * **[Content Marketing Institute Resources](https://contentmarketinginstitute.com/resources/)** - E-books, guides, and templates for content marketers.
 * **[HubSpot Academy Content Marketing Course](https://academy.hubspot.com/courses/content-marketing)** - A free course on content marketing strategies.
 * **[Neil Patel Blog](https://neilpatel.com/blog/)** - Expert tips and insights on content marketing and SEO.
+* **[The Free X Growth Course](https://slappost.app/learn/)** - Free, no-login course with 5 lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel.
 * **[Books on Content Marketing](https://www.goodreads.com/)** - Popular books like *Everybody Writes* by Ann Handley.
 
 ## Community and Forums
