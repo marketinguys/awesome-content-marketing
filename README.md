@@ -48,6 +48,7 @@
 * **[SEMrush](https://www.semrush.com/)** - A platform for keyword research, content optimization, and competitor analysis.
 * **[Surfer SEO](https://surferseo.com/)** - A tool for optimizing content based on data-driven recommendations.
 * **[Ahrefs](https://ahrefs.com/)** - A suite of tools for content marketing and SEO.
+* **[Screpy](https://screpy.com/)** - AI SEO platform for technical audits, keyword research, content drafts, rank tracking, Core Web Vitals, and reporting.
 * **[AnswerThePublic](https://answerthepublic.com/)** - A tool for finding popular content topics and questions.
 
 ## Analytics and Tracking
