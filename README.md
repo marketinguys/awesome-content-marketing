@@ -41,6 +41,7 @@
 * **[LinkedIn Articles](https://www.linkedin.com/)** - A professional platform for distributing thought leadership content.
 * **[Buffer](https://buffer.com/)** - A tool for scheduling and sharing content on social media.
 * **[Hootsuite](https://hootsuite.com/)** - A social media management tool for distributing and tracking content.
+* **[SocialClaw](https://getsocialclaw.com/)** - Schedule and publish posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress via dashboard, API, CLI, or MCP.
 
 ## SEO and Content Optimization
 
