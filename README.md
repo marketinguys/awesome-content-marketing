@@ -33,6 +33,7 @@
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 * **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+* **[videos.social](https://videos.social/?utm_source=awesome-content-marketing&utm_medium=directory&utm_campaign=listing-wave-d)** - Turn blog posts, PDFs, and prompts into editable faceless videos.
 
 ## Content Distribution Platforms
 
