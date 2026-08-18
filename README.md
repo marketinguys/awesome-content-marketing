@@ -33,6 +33,7 @@
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 * **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+* **[RepurposeAI](https://repurposeai-v2.pages.dev)** - A free AI tool that turns one piece of content into LinkedIn, Twitter, Instagram and TikTok formats.
 
 ## Content Distribution Platforms
 
