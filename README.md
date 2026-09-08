@@ -49,6 +49,7 @@
 * **[Surfer SEO](https://surferseo.com/)** - A tool for optimizing content based on data-driven recommendations.
 * **[Ahrefs](https://ahrefs.com/)** - A suite of tools for content marketing and SEO.
 * **[AnswerThePublic](https://answerthepublic.com/)** - A tool for finding popular content topics and questions.
+* **[LovedByAI](https://www.lovedby.ai)** - A WordPress plugin that adds structured data and generates an llms.txt file so content can be cited by AI assistants such as ChatGPT and Perplexity.
 
 ## Analytics and Tracking
 
