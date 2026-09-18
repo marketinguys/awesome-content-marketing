@@ -41,6 +41,7 @@
 * **[LinkedIn Articles](https://www.linkedin.com/)** - A professional platform for distributing thought leadership content.
 * **[Buffer](https://buffer.com/)** - A tool for scheduling and sharing content on social media.
 * **[Hootsuite](https://hootsuite.com/)** - A social media management tool for distributing and tracking content.
+* **[全媒发 quanmeifa](https://quanmeifa.com)** - Multi-platform content distribution system; one-click publish to 20+ platforms with real-publish verification, AI-content polishing, and multi-brand isolation.
 
 ## SEO and Content Optimization
 
