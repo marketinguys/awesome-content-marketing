@@ -34,6 +34,8 @@
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 * **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
 
+* **[Refix](https://refix.ai)** - Growth autopilot that runs product experiments, SEO, content, and ad campaigns and uses the results to decide the next play.
+
 ## Content Distribution Platforms
 
 * **[Medium](https://medium.com/)** - A platform for publishing and distributing written content.
