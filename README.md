@@ -1,7 +1,5 @@
 # Awesome Content Marketing
 
-
-
 > A curated list of tools, platforms, strategies, and resources for **content marketing**, including content creation, distribution, analytics, and optimization.
 
 ## Contents
@@ -41,6 +39,7 @@
 * **[LinkedIn Articles](https://www.linkedin.com/)** - A professional platform for distributing thought leadership content.
 * **[Buffer](https://buffer.com/)** - A tool for scheduling and sharing content on social media.
 * **[Hootsuite](https://hootsuite.com/)** - A social media management tool for distributing and tracking content.
+* **[SocialRoster](https://socialroster.dev)** - Social media scheduler for TikTok, Instagram, YouTube, and Facebook with bulk upload and calendar scheduling.
 
 ## SEO and Content Optimization
 
@@ -71,14 +70,14 @@
 * **[Content Marketing Framework](https://contentmarketinginstitute.com/framework/)** - A guide to building a content marketing strategy.
 * **[A/B Testing for Content](https://www.optimizely.com/optimization-glossary/a-b-testing/)** - Tips for testing headlines, CTAs, and more.
 * **[Email and Content Marketing Integration](https://www.mailchimp.com/resources/email-content-marketing/)** - How to align your email and content marketing efforts.
-* **[SEO for Content Marketing](https://moz.com/beginners-guide-to-seo)** - A guide to optimizing your content for search engines.
+* **[SEO for Content Marketing](https://moz.com/beginners-guide-to-seo)** - A guide to optimizing content for search engines.
 * **[Content Distribution Tactics](https://blog.hubspot.com/marketing/content-distribution-strategy)** - How to effectively share your content across platforms.
 
 ## Open-Source Tools
 
 * **[Ghost](https://ghost.org/)** - An open-source content management system for blogs and websites.
 * **[Hugo](https://gohugo.io/)** - A static site generator for creating and managing content.
-* **[Jekyll](https://jekyllrb.com/)** - A static site generator focused on simplicity and flexibility.
+* **[Jekyll](https://jekyllrb.com/)** - A static site generator focused on simplicity.
 * **[Pelican](https://getpelican.com/)** - A static site generator written in Python for content-focused sites.
 * **[Netlify CMS](https://www.netlifycms.org/)** - An open-source content management system for static websites.
 
