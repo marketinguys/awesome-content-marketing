@@ -41,6 +41,7 @@
 * **[LinkedIn Articles](https://www.linkedin.com/)** - A professional platform for distributing thought leadership content.
 * **[Buffer](https://buffer.com/)** - A tool for scheduling and sharing content on social media.
 * **[Hootsuite](https://hootsuite.com/)** - A social media management tool for distributing and tracking content.
+* **[Repostit](https://repostit.io/)** - Publishes already-finished short-form videos across connected social platforms.
 
 ## SEO and Content Optimization
 
