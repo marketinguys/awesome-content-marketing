@@ -33,6 +33,7 @@
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 * **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+* **[thirds.ai](https://thirds.ai/)** - A tool for making branded marketing images and PDFs from editable templates.
 
 ## Content Distribution Platforms
 
