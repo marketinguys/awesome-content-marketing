@@ -64,6 +64,7 @@
 * **[Storytelling in Marketing](https://contentmarketinginstitute.com/storytelling/)** - How to use storytelling to connect with audiences.
 * **[Repurposing Content](https://www.semrush.com/blog/repurpose-content/)** - Tips for maximizing the value of your content by reusing it in multiple formats.
 * **[Content Calendars](https://coschedule.com/marketing-calendar)** - Tools and templates for planning and scheduling content.
+* **[FollowerKaufen.at Content Planner](https://followerkaufen.at/resources/de_AT/content-planner.xlsx)** - Free German-language XLSX template with 30 editable content-planning slots and a labeled fictional example; no registration required.
 * **[User-Generated Content](https://sproutsocial.com/insights/user-generated-content/)** - Strategies for encouraging and leveraging user-generated content.
 
 ## Best Practices and Guides
