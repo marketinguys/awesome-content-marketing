@@ -33,6 +33,7 @@
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 * **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+* **[WarmQuant](https://warmquant.com/)** - AI-assisted English drafting with configurable author voice, target readers, and editable saved drafts.
 
 ## Content Distribution Platforms
 
