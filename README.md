@@ -57,6 +57,7 @@
 * **[ContentSquare](https://contentsquare.com/)** - Advanced analytics for measuring content engagement.
 * **[Chartbeat](https://www.chartbeat.com/)** - Real-time content analytics for publishers.
 * **[Crazy Egg](https://www.crazyegg.com/)** - A tool for tracking content engagement and website heatmaps.
+* **[CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console)** - Free remote MCP access to owned-site Google Search Console and Bing Webmaster search-performance data; authentication required.
 
 ## Content Marketing Strategies
 
