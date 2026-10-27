@@ -89,6 +89,7 @@
 * **[HubSpot Academy Content Marketing Course](https://academy.hubspot.com/courses/content-marketing)** - A free course on content marketing strategies.
 * **[Neil Patel Blog](https://neilpatel.com/blog/)** - Expert tips and insights on content marketing and SEO.
 * **[Books on Content Marketing](https://www.goodreads.com/)** - Popular books like *Everybody Writes* by Ann Handley.
+* **[YouTube Starter Guide](https://creator.taoliapp.com/)** - Free Chinese-language YouTube starter knowledge base for creators (account setup, policy, monetization; official sources preferred).
 
 ## Community and Forums
 
