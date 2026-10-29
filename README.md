@@ -29,6 +29,7 @@
 ## Content Creation Tools
 
 * **[Canva](https://www.canva.com/)** - A design tool for creating visuals, infographics, and social media content.
+* **[EasySociable](https://easysociable.com/?utm_source=awesome-content-marketing&utm_medium=directory&utm_campaign=backlinks)** - AI carousel maker that runs inside your coding agent — turns a prompt into branded TikTok, Instagram & LinkedIn carousels.
 * **[Grammarly](https://www.grammarly.com/)** - A writing assistant for improving grammar, tone, and readability.
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
