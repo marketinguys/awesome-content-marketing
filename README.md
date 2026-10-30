@@ -32,6 +32,7 @@
 * **[Grammarly](https://www.grammarly.com/)** - A writing assistant for improving grammar, tone, and readability.
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 * **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
+* **[Karaoke Captions](https://karaokecaptions.com/)** - Add animated word-by-word captions to marketing videos with on-device speech recognition and MP4, SRT and VTT export.
 * **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
 
 ## Content Distribution Platforms
