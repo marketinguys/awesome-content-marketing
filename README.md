@@ -53,6 +53,7 @@
 ## Analytics and Tracking
 
 * **[Google Analytics](https://analytics.google.com/)** - Track content performance and audience behavior.
+* **[TKMetrics](https://tkmetrics.com/)** - Track engagement rate, top videos and hashtag trends on public TikTok accounts.
 * **[Hotjar](https://www.hotjar.com/)** - Heatmaps and session recordings for understanding user interaction with content.
 * **[ContentSquare](https://contentsquare.com/)** - Advanced analytics for measuring content engagement.
 * **[Chartbeat](https://www.chartbeat.com/)** - Real-time content analytics for publishers.
