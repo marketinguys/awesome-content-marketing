@@ -73,6 +73,7 @@
 * **[Email and Content Marketing Integration](https://www.mailchimp.com/resources/email-content-marketing/)** - How to align your email and content marketing efforts.
 * **[SEO for Content Marketing](https://moz.com/beginners-guide-to-seo)** - A guide to optimizing your content for search engines.
 * **[Content Distribution Tactics](https://blog.hubspot.com/marketing/content-distribution-strategy)** - How to effectively share your content across platforms.
+* **[Telegram campaign measurement guide and editable metric log](https://gist.github.com/thinkpad2050/27f9b8293960b5bc6cb2c6990e626552)** - A practical guide to separating reported reach, tracked visits, qualified conversations, and business outcomes for sponsored Telegram placements.
 
 ## Open-Source Tools
 
