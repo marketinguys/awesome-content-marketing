@@ -28,6 +28,7 @@
 
 ## Content Creation Tools
 
+* **[Arcmira: YouTube Transcript Search](https://arcmira.com/)** - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API docs](https://arcmira.com/docs).
 * **[Canva](https://www.canva.com/)** - A design tool for creating visuals, infographics, and social media content.
 * **[Grammarly](https://www.grammarly.com/)** - A writing assistant for improving grammar, tone, and readability.
 * **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
